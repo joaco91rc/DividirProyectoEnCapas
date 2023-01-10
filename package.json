@@ -1,7 +1,7 @@
 {
-  "name": "entrega-18",
+  "name": "entrega-capas",
   "version": "1.0.0",
-  "description": "Entrega 18 para bootcamp de backend Coderhouse",
+  "description": "Endtrega Desafio Dividir Proyetco en capas para bootcamp de backend Coderhouse",
   "author": "Alvarez Joaquin",
   "main": "index.js",
   "type": "module",
